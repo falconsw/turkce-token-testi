@@ -1,0 +1,10 @@
+Python'da bir listedeki tekrar eden elemanları sırayı bozmadan nasıl silerim?
+Son commit'imi geri almak istiyorum ama yaptığım değişiklikler kaybolmasın. Ne yapmalıyım?
+Müşteriye teslim tarihinin bir hafta gecikeceğini nazik bir dille anlatan kısa bir e-posta yaz.
+Aşağıdaki toplantı notlarını üç maddede özetle ve her maddenin sorumlusunu yaz: Ayşe tasarımı cuma gününe kadar bitirecek, Mehmet sunucu maliyetlerini çıkaracak, Can müşteriyle pazartesi görüşecek.
+React uygulamamda sayfa her yenilendiğinde kullanıcı oturumu kapanıyor. Bunun olası nedenleri neler?
+Evde kalan patates, yumurta ve soğanla yirmi dakikada yapabileceğim bir akşam yemeği öner.
+Siparişler tablosundan geçen ay en çok harcama yapan beş müşteriyi getiren bir SQL sorgusu yazar mısın?
+Yapay zeka modellerinde token ne demek? On yaşındaki bir çocuğa anlatır gibi açıkla.
+Haftada üç gün, günde kırk beş dakika çalışarak üç ayda temel seviyede İspanyolca öğrenmek için bir plan hazırla.
+Bu cümleyi daha profesyonel hale getir: yarınki toplantıya gelemiyorum çünkü başka bir işim çıktı, sonra konuşuruz.

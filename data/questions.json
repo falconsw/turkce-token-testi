@@ -1,0 +1,52 @@
+[
+  {
+    "id": "python-liste",
+    "tr": "Python'da bir listedeki tekrar eden elemanları sırayı bozmadan nasıl silerim?",
+    "en": "How do I remove duplicate items from a list in Python without changing the order?"
+  },
+  {
+    "id": "git-geri",
+    "tr": "Son commit'imi geri almak istiyorum ama yaptığım değişiklikler kaybolmasın. Ne yapmalıyım?",
+    "en": "I want to undo my last commit but keep the changes I made. What should I do?"
+  },
+  {
+    "id": "mail",
+    "tr": "Müşteriye teslim tarihinin bir hafta gecikeceğini nazik bir dille anlatan kısa bir e-posta yaz.",
+    "en": "Write a short email that politely tells a customer the delivery date will be delayed by one week."
+  },
+  {
+    "id": "ozet",
+    "tr": "Aşağıdaki toplantı notlarını üç maddede özetle ve her maddenin sorumlusunu yaz: Ayşe tasarımı cuma gününe kadar bitirecek, Mehmet sunucu maliyetlerini çıkaracak, Can müşteriyle pazartesi görüşecek.",
+    "en": "Summarize the meeting notes below in three bullet points and name the owner of each: Ayşe will finish the design by Friday, Mehmet will work out the server costs, Can will meet the client on Monday."
+  },
+  {
+    "id": "hata",
+    "tr": "React uygulamamda sayfa her yenilendiğinde kullanıcı oturumu kapanıyor. Bunun olası nedenleri neler?",
+    "en": "In my React app the user gets logged out every time the page is refreshed. What are the possible causes?"
+  },
+  {
+    "id": "tarif",
+    "tr": "Evde kalan patates, yumurta ve soğanla yirmi dakikada yapabileceğim bir akşam yemeği öner.",
+    "en": "Suggest a dinner I can make in twenty minutes with the potatoes, eggs and onions I have at home."
+  },
+  {
+    "id": "sql",
+    "tr": "Siparişler tablosundan geçen ay en çok harcama yapan beş müşteriyi getiren bir SQL sorgusu yazar mısın?",
+    "en": "Can you write an SQL query that returns the five customers who spent the most last month from the orders table?"
+  },
+  {
+    "id": "aciklama",
+    "tr": "Yapay zeka modellerinde token ne demek? On yaşındaki bir çocuğa anlatır gibi açıkla.",
+    "en": "What does token mean in AI models? Explain it as if you were talking to a ten-year-old."
+  },
+  {
+    "id": "plan",
+    "tr": "Haftada üç gün, günde kırk beş dakika çalışarak üç ayda temel seviyede İspanyolca öğrenmek için bir plan hazırla.",
+    "en": "Make a plan to learn basic Spanish in three months by studying three days a week, forty-five minutes a day."
+  },
+  {
+    "id": "duzelt",
+    "tr": "Bu cümleyi daha profesyonel hale getir: yarınki toplantıya gelemiyorum çünkü başka bir işim çıktı, sonra konuşuruz.",
+    "en": "Make this sentence more professional: I can't come to tomorrow's meeting because something else came up, we'll talk later."
+  }
+]

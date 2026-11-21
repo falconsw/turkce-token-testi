@@ -1,0 +1,10 @@
+How do I remove duplicate items from a list in Python without changing the order?
+I want to undo my last commit but keep the changes I made. What should I do?
+Write a short email that politely tells a customer the delivery date will be delayed by one week.
+Summarize the meeting notes below in three bullet points and name the owner of each: Ayşe will finish the design by Friday, Mehmet will work out the server costs, Can will meet the client on Monday.
+In my React app the user gets logged out every time the page is refreshed. What are the possible causes?
+Suggest a dinner I can make in twenty minutes with the potatoes, eggs and onions I have at home.
+Can you write an SQL query that returns the five customers who spent the most last month from the orders table?
+What does token mean in AI models? Explain it as if you were talking to a ten-year-old.
+Make a plan to learn basic Spanish in three months by studying three days a week, forty-five minutes a day.
+Make this sentence more professional: I can't come to tomorrow's meeting because something else came up, we'll talk later.
